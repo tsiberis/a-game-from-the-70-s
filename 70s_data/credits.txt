@@ -1,0 +1,31 @@
+"A game from
+the 70's"
+by Takis Tsiberis
+_________________
+Thanks to 
+My cousin Peter
+
+Tom Chance
+pygame.org/docs/
+
+PyMike
+pymike.blogspot.gr
+__________________
+Amazing Bach music
+classicalguitar-
+midi.com
+__________________
+
+Fonts are
+Space Age
+by Justin Callaghan
+__________________
+Takis Tsiberis uses
+Lubuntu, Python,
+Pygame, Geany
+& Audacity
+__________________
+License is GPL
+
+Have Fun !!!
+__________________
